@@ -385,7 +385,7 @@ b.met {
 .site_btns {
 	font-size: 17px;
 	line-height: 17px;
-	color: #64d1b7;
+	color: #0AB5DB;
 	border: 0;
 	border-radius: 20px;
 	padding: 20px 45px;
@@ -413,7 +413,7 @@ b.met {
 	border-radius: 20px;
 	padding: 16px 195px 16px 20px;
 	font-size: 17px;
-	color: #64d1b7;
+	color: #EBFBFF;
 	letter-spacing: 0.1em;
 	background: transparent;
 	transition: 0.3s ease;
@@ -424,7 +424,7 @@ b.met {
 	letter-spacing: 0.1em;
 	padding: 13px 18px;
 	background: #fff;
-	color: #64d1b7;
+	color: #0AB5DB;
 	border-radius: 15px;
 	border: 0;
 	position: absolute;
@@ -627,7 +627,7 @@ b.met {
 
 .hovr_box h5 {
 	font-size: 20px;
-	color: #64d1b7;
+	color: #00B0D8;
 	font-weight: normal;
 	margin-bottom: 15px;
 	text-transform: capitalize;
@@ -664,7 +664,7 @@ b.met {
 }
 
 .hovr_box:hover h5 {
-	color: #64d1b7;
+	color: #00B0D8;
 }*/
 
 .aeroplane {
@@ -998,7 +998,7 @@ a.pop_up__close {
 .naccs .menu div {
 	padding: 16px 20px;
 	margin-bottom: 10px;
-	background: #64d1b7;
+	background: #F1FCFF;
 	cursor: pointer;
 	position: relative;
 	vertical-align: middle;
@@ -1060,7 +1060,7 @@ ul.nacc li {
 	position: absolute;
 	list-style: none;
 	transition: 1s all cubic-bezier(0.075, 0.82, 0.165, 1);
-	background: #64d1b7;
+	background: #F1FCFF;
 	border: 2px solid #64d1b7;
 	box-sizing: border-box;
 	border-radius: 30px;
@@ -1331,7 +1331,7 @@ ul.nacc li p {
 }
 
 .focus_on h2 {
-	color: #64d1b7 !important;
+	color: #4D9DCF !important;
 }
 
 .COSYSTEM span {
