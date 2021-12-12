@@ -998,7 +998,7 @@ a.pop_up__close {
 .naccs .menu div {
 	padding: 16px 20px;
 	margin-bottom: 10px;
-	background: #F1FCFF;
+	background: #64d1b7;
 	cursor: pointer;
 	position: relative;
 	vertical-align: middle;
@@ -1060,7 +1060,7 @@ ul.nacc li {
 	position: absolute;
 	list-style: none;
 	transition: 1s all cubic-bezier(0.075, 0.82, 0.165, 1);
-	background: #F1FCFF;
+	background: #64d1b7;
 	border: 2px solid #64d1b7;
 	box-sizing: border-box;
 	border-radius: 30px;
@@ -1331,7 +1331,7 @@ ul.nacc li p {
 }
 
 .focus_on h2 {
-	color: #4D9DCF !important;
+	color: #64d1b7 !important;
 }
 
 .COSYSTEM span {
